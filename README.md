@@ -1,7 +1,11 @@
+
 ## [CipherHater main site URL](http://cipherhater.torpress2sarn7xw.onion/)
 
+---
 
-#### [To access the CipherHater resource, you need the Tor Browser](https://www.torproject.org/download/)
+#### [Warning! To access the CipherHater resource, you need the Tor Browser!](https://www.torproject.org/download/)
+
+----
 
 <center>
     <p><b>
