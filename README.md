@@ -6,7 +6,7 @@
 #### [Warning! To access the CipherHater resource, you need the Tor Browser!](https://www.torproject.org/download/)
 
 
-![HACK](https://github.com/cipherhater/CipherHater/blob/master/hack.jpeg)
+![HACK](./hack.jpeg)
 
 ----
 
