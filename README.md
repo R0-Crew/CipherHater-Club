@@ -1,5 +1,5 @@
 
-## [CipherHater main site URL](http://cipherhater.torpress2sarn7xw.onion/)
+## [CipherHater Darknet Website / Deep Web Hidden Sites Link](http://cipherhater.torpress2sarn7xw.onion/)
 
 
 
