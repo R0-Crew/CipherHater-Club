@@ -1,9 +1,8 @@
 
-## [CipherHater Darknet Website / Deep Web Hidden Sites Link](http://cipherhater.torpress2sarn7xw.onion/)
+## [CipherHater Darknet Website / Deep Web Hidden Sites](http://cipherhater.torpress2sarn7xw.onion/)
 
 
-
-#### [Warning! To access the CipherHater resource, you need the Tor Browser!](https://www.torproject.org/download/)
+- [Warning! To access the CipherHater resource, you need the Tor Browser!](https://www.torproject.org/download/)
 
 
 ![HACK](./hack.jpeg)
