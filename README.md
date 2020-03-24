@@ -43,7 +43,7 @@ For anyone who is interested in hiring any of the services we provide you can [S
 7. <a href="#seolog">SEO Log File Analyser 3.3</a>
 8. <a href="#seospider">Screaming Frog SEO Spider 12.6</a>
 9. <a href="#turboprint">TurboPrint 2.49-1</a>
-10. <a href="#bcad">BricsCAD 20.1.10 and 19.2.15</a>
+10. <a href="#bcad">BricsCAD 20.2.03 and 19.2.15</a>
 11. <a href="#textpack">TexturePacker 5.3.0</a>
 12. <a href="#sprite">SpriteIlluminator 1.5.4</a>
 13. <a href="#physics">PhysicsEditor 1.8.4</a>
@@ -55,7 +55,7 @@ For anyone who is interested in hiring any of the services we provide you can [S
 19. <a href="#softmaker">SoftMaker Office 2018 build S976.0313</a>
 20. <a href="#masterpdf">Master PDF Editor 5.4.38</a>
 21. <a href="#eagle">Autodesk EAGLE Version 9.6.0</a>
-22. <a href="#varicad">VariCAD 2020-1.06 (20191119)</a>
+22. <a href="#varicad">VariCAD 2020-1.07 (20191119)</a>
 23. <a href="#qcad2d">QCAD – 2D CAD Version 3.24.3</a>
 24. <a href="#qcadcam">QCAD/CAM Version 3.24.3</a>
 25. <a href="#sublimetext">Sublime Text 3</a>
@@ -257,9 +257,9 @@ After the patch, the program is fully functional.
 
 <a name="bcad" />
 
-## BricsCAD 20.1.10 and 19.2.15
+## BricsCAD 20.2.03 and 19.2.15
 
-**Only for version 20.1.10 and 19.2.15 and Linux x86_64**
+**Only for version 20.2.03 and 19.2.15 and Linux x86_64**
 
 BricsCAD is the modern CAD alternative. It is based on DWG, and it is compatible with everything you know. BricsCAD is available as a perpetual license that you can buy once and use forever.
 
@@ -270,10 +270,9 @@ License key required: **NO**
 After the patch, the program is fully functional.
 ```
 
-![brics20_big1](./images/brics/brics20_big1.jpg)
-![brics20_big](./images/brics/brics20_big.jpg)
-![brics_launcher.jpg](./images/brics/brics_launcher.jpg)
-![brics20_small.jpg](./images/brics/brics20_small.jpg)
+![brics_big](./images/brics/20.2.03/brics_big.jpg)
+![brics_launcher.jpg](./images/brics/20.2.03/brics_launcher.jpg)
+![brics_small.jpg](./images/brics/20.2.03/brics_small.jpg)
 
 ----
 
@@ -510,9 +509,9 @@ After the patch, the program is fully functional.
 
 <a name="varicad" />
 
-## VariCAD 2020-1.06 (20191119)
+## VariCAD 2020-1.07 (20191119)
 
-**Only for version 2020-1.06 (20191119) and Linux x86_64**
+**Only for version 2020-1.077 (20191119) and Linux x86_64**
 
 VariCAD is compact, fast, easy to use, and provides everything necessary for mechanical design.
 VariCAD is sold "fully loaded", including all features and functions, for one affordable price.
@@ -524,8 +523,8 @@ License key required: **NO**
 After the patch, the program is fully functional.
 ```
 
-![varicad](./images/varicad/varicad.jpg)
-![varicad_small](./images/varicad/varicad_small.jpg)
+![varicad](./images/varicad/1.07/varicad.jpg)
+![varicad_small](./images/varicad/1.07varicad_small.jpg)
 
 ----
 
