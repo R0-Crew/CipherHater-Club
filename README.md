@@ -607,6 +607,48 @@ After the patch, the program is fully functional.
 
 ----
 
+<a name="vuescan" />
+
+## VueScan 9 x64
+
+**Only for version v9.7.25 and Linux x86_64**
+
+VueScan is an application for scanning documents, photos, film, and slides.
+VueScan supports over 6000 scanners from 42 manufacturers – even when there
+isn’t a driver available from the manufacturer.
+
+[VueScan home site](https://www.hamrick.com/)
+
+License key required: **YES**
+```
+After the patch, the program is fully functional.
+```
+
+![vuescan](./images/vuescan/vuescan.jpg)
+![vuescan_small](./images/vuescan/vuescan_small.jpg)
+
+----
+
+<a name="flexbv" />
+
+## FlexBV x64
+
+**Only for version R1060/R1115/R1145 and Linux x86_64**
+
+FlexBV interlinks boardviews and schematics saving you the hassle of manually cross-referencing, to provide a smoother repair process, leaving you to keep your mind focused on finding the fault
+
+[FlexBV home site](https://pldaniels.com/flexbv/)
+
+License key required: **NO**
+```
+After the patch, the program is fully functional.
+```
+
+![flexbv_big](./images/flexbv/flexbv_big.jpg)
+![flexbv_small](./images/flexbv/flexbv_small.jpg)
+
+----
+
 
 ## [Detailed explanation]()
 
