@@ -45,14 +45,6 @@ For anyone who is interested in hiring any of the services we provide you can [S
 
 ----
 
-**Please donate what you can. Together we can do this!**
-
-<div style="text-align:center" markdown="1">
-
-![DONATE](https://en.cryptobadges.io/donate/13mzRviMxLg3HDojL7YJZajwtVLa124E8X)
-
-<div/>
-
 <center>
     <p>
         Copyright &copy; 2019-2020 CipherHater All rights reserved.
