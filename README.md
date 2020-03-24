@@ -281,7 +281,7 @@ CREATE OPTIMIZED SPRITE SHEETS
 
 [TexturePacker home site](https://www.codeandweb.com/)
 
-License key required: **NO**
+License key required: **YES**
 ```
 After the patch, the program is fully functional.
 ```
@@ -302,7 +302,7 @@ Normal Map Editor for dynamic lighting and special effects.
 
 [SpriteIlluminator home site](https://www.codeandweb.com/)
 
-License key required: **NO**
+License key required: **YES**
 ```
 After the patch, the program is fully functional.
 ```
@@ -323,7 +323,7 @@ Edit 2d collision polygons and physics parameters with ease.
 
 [PhysicsEditor home site](https://www.codeandweb.com/)
 
-License key required: **NO**
+License key required: **YES**
 ```
 After the patch, the program is fully functional.
 ```
@@ -344,7 +344,7 @@ Translation editor for (web) apps.
 
 [BabelEdit home site](https://www.codeandweb.com/)
 
-License key required: **NO**
+License key required: **YES**
 ```
 After the patch, the program is fully functional.
 ```
