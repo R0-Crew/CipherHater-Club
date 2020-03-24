@@ -35,7 +35,7 @@ For anyone who is interested in hiring any of the services we provide you can [S
 # [View all implemented hacks]()
 
 1. <a href="#houdini">Houdini 18.0.391</a>
-2. <a href="#maya">Houdini 18.0.391</a>
+2. <a href="#maya">Autodesk Maya 2020.1</a>
 3. <a href="#hexinator">Hexinator 1.11</a>
 4. <a href="#slickedit">SlickEdit 2019 24.0.1.0</a>
 5. <a href="#wing">Wing IDE Professional 7.2.1.0</a>
