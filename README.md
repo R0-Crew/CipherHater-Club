@@ -9,7 +9,7 @@ CipherHater Team is a group consisting of highly skilled hackers at different ar
 
 <div style="text-align:center" markdown="1">
 
-![HACK](./images.jpeg)
+![HACK](./hack.jpeg)
 
 </div>
 
