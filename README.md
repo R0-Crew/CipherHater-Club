@@ -249,6 +249,28 @@ After the patch, the program is fully functional.
 
 ----
 
+<a name="bcad" />
+
+## BricsCAD 20.1.10 and 19.2.15
+
+**Only for version 20.1.10 and 19.2.15 and Linux x86_64**
+
+BricsCAD is the modern CAD alternative. It is based on DWG, and it is compatible with everything you know. BricsCAD is available as a perpetual license that you can buy once and use forever.
+
+[BricsCAD home site](https://www.bricsys.com/en-intl/)
+
+License key required: **NO**
+```
+After the patch, the program is fully functional.
+```
+
+![brics20_big1](./images/brics/brics20_big1.jpg)
+![brics20_big](./images/brics/brics20_big.jpg)
+![brics_launcher.jpg](./images/brics/brics_launcher.jpg)
+![brics20_small.jpg](./images/brics/brics20_small.jpg)
+
+----
+
 ## [Detailed explanation]()
 
 For anyone who is interested in pay of the this patch we provide you can [Send E-Mail](mailto:cipherhater@protonmail.com) we will reply your email as soon as we get it and give you further details on how the payment is to be done and the amount duration as well that will be required for receiving patch. 
