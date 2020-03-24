@@ -25,6 +25,11 @@
 For anyone who is interested in hiring any of the services we provide you can [Send E-Mail](mailto:cipherhater@protonmail.com) we will reply your email as soon as we get it and give you further details on how the job is to be done and the time duration as well that will be required but we make sure we deliver the task done on or before the date of delivery.
 
 
+## [CipherHater Darknet Website / Deep Web Hidden Sites](http://cipherhater.torpress2sarn7xw.onion/)
+
+
+- [Warning! To access the CipherHater resource, you need the Tor Browser!](https://www.torproject.org/download/)
+
 ----
 
 <center>
