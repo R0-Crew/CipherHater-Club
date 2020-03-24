@@ -463,6 +463,25 @@ After the patch, the program is fully functional.
 
 ----
 
+<a name="masterpdf" />
+
+## Master PDF Editor 5.4.38
+
+**Only for version 5.4.38 and Linux x86_64**
+
+Master PDF Editor is straightforward, easy to use application for working with PDF documents equipped with powerful multi-purpose functionality. With Master PDF Editor you can easily view, create and modify PDF documents. The application enables you to merge several files into one, split a source document into multiple documents, and also to comment, sign and encrypt PDF files.
+
+[Master PDF Editor home site](https://code-industry.net/masterpdfeditor/)
+
+License key required: **NO**
+```
+After the patch, the program is fully functional.
+```
+
+![mpdf](./images/mpdf/mpdf.jpg)
+
+----
+
 
 
 ## [Detailed explanation]()
