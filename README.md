@@ -34,6 +34,35 @@ For anyone who is interested in hiring any of the services we provide you can [S
 
 # [View all implemented hacks]()
 
+1. <a href="#houdini">Houdini 18.0.391</a>
+2. <a href="#hexnator">Hexinator 1.11</a>
+3. <a href="#slickedit">SlickEdit 2019 24.0.1.0</a>
+4. <a href="#wing">Wing IDE Professional 7.2.1.0</a>
+5. <a href="#jriver">JRiver Media Center 26.26.0.37</a>
+6. <a href="#seolog">SEO Log File Analyser 3.3</a>
+7. <a href="#seospider">Screaming Frog SEO Spider 12.6</a>
+
+<a name="houdini" />
+
+## Houdini 18.0.391
+
+![fx_big](./images/houdini/18.0/fx_big.jpg)
+![core](./images/houdini/18.0/core.jpg)
+![server](./images/houdini/18.0/server.jpg)
+![license](./images/houdini/18.0/license.jpg)
+
+<a name="hexinator" />
+
+<a name="slickedit" />
+
+<a name="wing" />
+
+<a name="jriver" />
+
+<a name="seolog" />
+
+<a name="seospider" />
+
 
 ----
 
