@@ -355,6 +355,27 @@ After the patch, the program is fully functional.
 
 ----
 
+<a name="after" />
+
+## Corel AfterShot Pro 3
+
+**Only for version 3.6.0.380 and Linux x86_64**
+
+Corel® AfterShot™ Pro 3 is up to 4x faster than Adobe® Lightroom®*. It's the photo editor that reveals your true creative potential and frees you: from high costs, from endless subscriptions, from hours spent editing at your computer. Import, process and output faster, and get back behind the camera where you belong with AfterShot™ Pro 3.
+
+[Corel AfterShot home site](https://www.aftershotpro.com/en/)
+
+License key required: **NO**
+```
+After the patch, the program is fully functional.
+```
+
+![aftershot_big](./images/after/aftershot_big.jpg)
+![aftershot_small](./images/after/aftershot_small.jpg)
+![aftershot_splash](./images/after/aftershot_splash.jpg)
+
+----
+
 ## [Detailed explanation]()
 
 For anyone who is interested in pay of the this patch we provide you can [Send E-Mail](mailto:cipherhater@protonmail.com) we will reply your email as soon as we get it and give you further details on how the payment is to be done and the amount duration as well that will be required for receiving patch. 
