@@ -482,6 +482,25 @@ After the patch, the program is fully functional.
 
 ----
 
+<a name="eagle" />
+
+## Autodesk EAGLE Version 9.6.0
+
+**Only for version 9.6.0 and Linux x86_64**
+
+EAGLE is an electronic design automation (EDA) software. Enabling printed circuit board (PCB) designers to seamlessly connect schematic diagrams, component placement, PCB routing, and comprehensive library content.
+
+[Autodesk EAGLE home site](https://www.autodesk.com/products/eagle/overview)
+
+License key required: **YES**
+```
+After the patch, the program is fully functional.
+```
+
+![eagle_big](./images/eagle/eagle_big.jpg)
+![eagle_small](./images/eagle/eagle_small.jpg)
+
+----
 
 
 ## [Detailed explanation]()
