@@ -83,7 +83,7 @@ After the patch, the program is fully functional.
 ```
 
 ![maya_big](./images/maya/maya_big.jpg)
-![maya_small](./images/maya_small.jpg)
+![maya_small](./images/maya/maya_small.jpg)
 
 
 ----
@@ -149,6 +149,24 @@ After the patch, the program is fully functional.
 ----
 
 <a name="jriver" />
+
+## JRiver Media Center 26.26.0.37
+
+**Only for version 26.26.0.37 and Linux x86_64**
+
+JRiver Media Center the most comprehensive and seamless software available for managing and playing your media. Its scope includes almost all formats of audio, video, and images. Media Center can also record television and manage documents. 
+
+[JRiver Media Center home site](https://www.jriver.com/)
+
+License key required: **NO**
+```
+After the patch, the program is fully functional.
+```
+
+![jr_big](./images/jriver/jr_big.jpg)
+![jr_small](./images/jriver/jr_small.jpg)
+
+----
 
 <a name="seolog" />
 
