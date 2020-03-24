@@ -308,7 +308,7 @@ After the patch, the program is fully functional.
 ```
 
 ![si_big](./images/codeweb/si_big.jpg)
-![si_spalsh.jpg](./images/codeweb/si_spalsh.jpg)
+![si_spalsh.jpg](./images/codeweb/si_splash.jpg)
 
 ----
 
@@ -330,7 +330,7 @@ After the patch, the program is fully functional.
 
 ![pe_big](./images/codeweb/pe_big.jpg)
 ![pe_small](./images/codeweb/pe_small.jpg)
-![pe_spalsh.jpg](./images/codeweb/pe_spalsh.jpg)
+![pe_spalsh.jpg](./images/codeweb/pe_splash.jpg)
 
 ----
 
@@ -351,7 +351,7 @@ After the patch, the program is fully functional.
 
 ![be_big](./images/codeweb/be_big.jpg)
 ![be_small](./images/codeweb/be_small.jpg)
-![be_spalsh.jpg](./images/codeweb/be_spalsh.jpg)
+![be_spalsh.jpg](./images/codeweb/be_splash.jpg)
 
 ----
 
