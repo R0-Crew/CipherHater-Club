@@ -64,6 +64,8 @@ After the patch, the program is fully functional.
 ![server](./images/houdini/18.0/server.jpg)
 ![license](./images/houdini/18.0/license.jpg)
 
+----
+
 <a name="hexinator" />
 
 ## Hexinator 1.11
@@ -82,7 +84,11 @@ After the patch, the program is fully functional.
 ![fx_small](./images/hexinator/hex_small.jpg)
 ![fx_about](./images/hexinator/hex_about.jpg)
 
+----
+
 <a name="slickedit" />
+
+## SlickEdit 2019 24.0.1.0
 
 **Only for version 24.0.1.0 and Linux x86_64**
 
@@ -97,6 +103,8 @@ After the patch, the program is fully functional.
 
 ![slickbig](./images/slickedit/slickbig.jpg)
 ![slicksmall](./images/slickedit/slicksmall.jpg)
+
+----
 
 <a name="wing" />
 
