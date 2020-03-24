@@ -455,11 +455,11 @@ After the patch, the program is fully functional.
 ```
 
 ![planbig](./images/soffice/planbig.jpg)
-![pbig](./images/office/pbig.jpg)
-![office](./images/office/office.jpg)
-![office_small](./images/office/office_small.jpg)
-![plansmall](./images/office/plansmall.jpg)
-![psmall](./images/office/psmall.jpg)
+![pbig](./images/soffice/pbig.jpg)
+![office](./images/soffice/office.jpg)
+![office_small](./images/soffice/office_small.jpg)
+![plansmall](./images/soffice/plansmall.jpg)
+![psmall](./images/soffice/psmall.jpg)
 
 ----
 
