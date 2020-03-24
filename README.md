@@ -79,6 +79,11 @@ After the patch, the program is fully functional.
 
 ----
 
+## [Detailed explanation]()
+
+For anyone who is interested in pay of the this patch we provide you can [Send E-Mail](mailto:cipherhater@protonmail.com) we will reply your email as soon as we get it and give you further details on how the payment is to be done and the amount duration as well that will be required for receiving patch. 
+
+----
 
 ## [Access to - Darknet Website / Deep Web Hidden Sites](http://cipherhater.torpress2sarn7xw.onion/)
 
