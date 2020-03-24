@@ -376,6 +376,70 @@ After the patch, the program is fully functional.
 
 ----
 
+<a name="spaint" />
+
+## Substance Painter 2019-3.3
+
+**Only for version 2019-3.3 and Linux x86_64**
+
+All the tools you need to texture your 3D assets in one application.
+Substance Painter has smart materials, smart masks and integrated bakers, and a state of the art real-time viewport.
+
+[Substance Painter home site](https://www.substance3d.com/products/substance-painter/)
+
+License key required: **NO**
+```
+After the patch, the program is fully functional.
+```
+
+![sp_big](./images/sub/sp_big.jpg)
+![sp_small](./images/sub/sp_small.jpg)
+
+----
+
+<a name="sdesign" />
+
+## Substance Designer 2019.3.3
+
+**Only for version 2019.3.3 and Linux x86_64**
+
+The industry standard for creating custom materials, Substance Designer gives you complete authoring control.
+Design tileable textures and patterns, and edit complete texture sets.
+Use pre-made resources or create materials from scratch in this non-destructive, node-based environment, and take advantage of Designer’s ever-expanding scripting capabilities.
+
+[Substance Designer site](https://www.substance3d.com/products/substance-designer/)
+
+License key required: **NO**
+```
+After the patch, the program is fully functional.
+```
+
+![sd_big](./images/sub/sd_big.jpg)
+![sd_small](./images/sub/sd_small.jpg)
+
+----
+
+<a name="salchem" />
+
+## Substance Alchemist 2.1.0
+
+**Only for version 2.1.0 and Linux x86_64**
+
+Create collections of materials by combining and tweaking existing resources, or by building new materials from photos and high-res scans.Craft a specific catalog of materials from real-world references, or simply experiment until you find results you love – in all cases, Alchemist brings phenomenal speed and ease of use to your workflow.
+
+[Substance Alchemis home site](https://www.substance3d.com/products/substance-alchemist/)
+
+License key required: **NO**
+```
+After the patch, the program is fully functional.
+```
+
+![alch_big](./images/sub/alch_big.jpg)
+![alch_small](./images/sub/alch_small.jpg)
+
+----
+
+
 ## [Detailed explanation]()
 
 For anyone who is interested in pay of the this patch we provide you can [Send E-Mail](mailto:cipherhater@protonmail.com) we will reply your email as soon as we get it and give you further details on how the payment is to be done and the amount duration as well that will be required for receiving patch. 
