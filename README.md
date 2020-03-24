@@ -523,6 +523,49 @@ After the patch, the program is fully functional.
 
 ----
 
+<a name="qcad2d" />
+
+## QCAD-2D 3.24.3
+
+**Only for version 3.24.3 and Linux x86_64**
+
+QCAD is a free, open source application for computer aided drafting (CAD) in two dimensions (2D). With QCAD you can create technical drawings such as plans for buildings, interiors, mechanical parts or schematics and diagrams. QCAD works on Windows, macOS and Linux. The source code of QCAD is released under the GPL version 3 (GPLv3), a popular Open Source license.
+
+[QCAD-2D home site](https://qcad.org/en/)
+
+License key required: **NO**
+```
+After the patch, the program is fully functional.
+```
+
+![qcad](./images/qcad/qcad.jpg)
+![qcad_pro](./images/qcad/qcad_pro.jpg)
+![qcad_small](./images/qcad/qcad_small.jpg)
+
+
+----
+
+<a name="qcadcam" />
+
+## QCAD/CAM 3.24.3
+
+**Only for version 3.24.3 and Linux x86_64**
+
+QCAD/CAM is QCAD Professional with a CAM (Computer-Aided Manufacturing) module. The QCAD/CAM software includes every tool and feature that QCAD Professional has - but in addition it also has some CAM specific tools to export drawings to machine readable file formats such as G-Code. Such files are usually used to control computer controlled machines (CNC) such as milling machines, engraving machines, LASER cutting machines, plasma cutting machines or water jet cutting machines.
+
+[QCAD/CAM home site](https://qcad.org/en/products/qcad-cam)
+
+License key required: **NO**
+```
+After the patch, the program is fully functional.
+```
+
+![qcam](./images/qcad/qcam.jpg)
+![qcam_pro](./images/qcad/qcam_pro.jpg)
+![qcam_small](./images/qcad/qcam_small.jpg)
+
+----
+
 
 ## [Detailed explanation]()
 
