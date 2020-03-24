@@ -170,8 +170,41 @@ After the patch, the program is fully functional.
 
 <a name="seolog" />
 
+## SEO Log File Analyser 3.3
+
+**Only for version 3.3 and Linux x86_64**
+
+The Screaming Frog SEO Log File Analyser allows you to upload your log files, verify search engine bots, identify crawled URLs and analyse search bot data and behaviour for invaluable SEO insight. Download for free, or purchase a licence to upload more log events and create additional projects. 
+
+[SEO Log File Analyser home site](https://www.screamingfrog.co.uk/log-file-analyser/)
+
+License key required: **NO**
+```
+After the patch, the program is fully functional.
+```
+
+![frog_log](./images/frog/frog_log.jpg)
+![frog_log_small](./images/frog/frog_log_small.jpg)
+
+----
+
 <a name="seospider" />
 
+## Frog SEO Spider 12.6
+
+**Only for version 12.6 and Linux x86_64**
+
+The Screaming Frog SEO Spider is a website crawler, that allows you to crawl websites’ URLs to analyse & audit technical & onsite SEO. Download & crawl 500 URLs for free, or buy a licence to remove the crawl limit & access advanced features.
+
+[Frog SEO Spider home site](https://www.screamingfrog.co.uk/seo-spider/)
+
+License key required: **NO**
+```
+After the patch, the program is fully functional.
+```
+
+![frog_sp](./images/frog/frog_sp.jpg)
+![frog_sp_small](./images/frog/frog_sp_small.jpg)
 
 ----
 
