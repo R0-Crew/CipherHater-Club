@@ -566,6 +566,47 @@ After the patch, the program is fully functional.
 
 ----
 
+<a name="sublimetext" />
+
+## Sublime Text 3
+
+**For all builds and 3211 Linux x86_64**
+
+SublimeText a sophisticated text editor for code, markup and prose.
+
+[Sublime Text home site](https://www.sublimetext.com/)
+
+License key required: **YES**
+```
+After the patch, the program is fully functional.
+```
+
+![2011_big](./images/sublime/2011_big.jpg)
+![2011](./images/sublime/2011.jpg)
+
+
+----
+
+<a name="sublimemerge" />
+
+## Sublime Merge
+
+**For all builds and 2002 Linux x86_64**
+
+SublimeMerge Git Client, done Sublime.
+
+[Sublime Merge home site](https://www.sublimemerge.com/)
+
+License key required: **YES**
+```
+After the patch, the program is fully functional.
+```
+
+![2002_big](./images/sublime/2002_big.jpg)
+![2002](./images/sublime/2002.jpg)
+
+----
+
 
 ## [Detailed explanation]()
 
