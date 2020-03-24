@@ -228,6 +228,27 @@ After the patch, the program is fully functional.
 
 ----
 
+<a name="turboprint" />
+
+## TurboPrint 2.49-1
+
+**Only for version 2.49-1 and Linux x86_64**
+
+TPrint your documents, graphics & photos easily and in professional quality – using the well-proven, award-winning TurboPrint printing system.
+
+[TurboPrint home site](https://www.turboprint.info/)
+
+License key required: **NO**
+```
+After the patch, the program is fully functional.
+```
+
+![tp_main](./images/turbo/tp_main.jpg)
+![tp_mon](./images/turbo/tp_mon.jpg)
+![tp_about](./images/turbo/tp_about.jpg)
+
+----
+
 ## [Detailed explanation]()
 
 For anyone who is interested in pay of the this patch we provide you can [Send E-Mail](mailto:cipherhater@protonmail.com) we will reply your email as soon as we get it and give you further details on how the payment is to be done and the amount duration as well that will be required for receiving patch. 
