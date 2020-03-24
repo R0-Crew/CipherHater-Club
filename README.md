@@ -65,6 +65,12 @@ For anyone who is interested in hiring any of the services we provide you can [S
 
 ----
 
+## [Detailed explanation](mailto:cipherhater@protonmail.com)
+
+For anyone who is interested in pay of the this patch we provide you can [Send E-Mail](mailto:cipherhater@protonmail.com) we will reply your email as soon as we get it and give you further details on how the payment is to be done and the amount duration as well that will be required for receiving patch. 
+
+----
+
 <a name="houdini" />
 
 ## Houdini 18.0.391
@@ -646,13 +652,6 @@ After the patch, the program is fully functional.
 
 ![flexbv_big](./images/flexbv/flexbv_big.jpg)
 ![flexbv_small](./images/flexbv/flexbv_small.jpg)
-
-----
-
-
-## [Detailed explanation]()
-
-For anyone who is interested in pay of the this patch we provide you can [Send E-Mail](mailto:cipherhater@protonmail.com) we will reply your email as soon as we get it and give you further details on how the payment is to be done and the amount duration as well that will be required for receiving patch. 
 
 ----
 
