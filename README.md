@@ -502,6 +502,27 @@ After the patch, the program is fully functional.
 
 ----
 
+<a name="varicad" />
+
+## VariCAD 2020-1.06 (20191119)
+
+**Only for version 2020-1.06 (20191119) and Linux x86_64**
+
+VariCAD is compact, fast, easy to use, and provides everything necessary for mechanical design.
+VariCAD is sold "fully loaded", including all features and functions, for one affordable price.
+
+[VariCAD home site](https://www.varicad.com/en/home/)
+
+License key required: **NO**
+```
+After the patch, the program is fully functional.
+```
+
+![varicad](./images/varicad/varicad.jpg)
+![varicad_small](./images/varicad/varicad_small.jpg)
+
+----
+
 
 ## [Detailed explanation]()
 
