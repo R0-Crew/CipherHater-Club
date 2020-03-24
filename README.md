@@ -46,6 +46,17 @@ For anyone who is interested in hiring any of the services we provide you can [S
 
 ## Houdini 18.0.391
 
+**Only for version 18.0.391 and Linux x86_64**
+
+Houdini 18.0 introduces PDG which is designed to enhance SideFX’s procedural architecture to distribute tasks and manage dependencies to better scale, automate, and analyze content pipelines for Film, TV, Games, Advertising and VR. In addition, there have been a number of enhancements to key features such as FLIP Fluids, volumes, destruction tools and more.
+
+[Houdini home site](https://www.sidefx.com/products/houdini/)
+
+License key required: **YES (Available with key generator)**
+```
+After the patch, the program is fully functional.
+```
+
 ![fx_big](./images/houdini/18.0/fx_big.jpg)
 ![core](./images/houdini/18.0/core.jpg)
 ![server](./images/houdini/18.0/server.jpg)
