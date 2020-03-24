@@ -525,7 +525,7 @@ After the patch, the program is fully functional.
 ```
 
 ![varicad](./images/varicad/1.07/varicad.jpg)
-![varicad_small](./images/varicad/1.07varicad_small.jpg)
+![varicad_small](./images/varicad/1.07/varicad_small.jpg)
 
 ----
 
