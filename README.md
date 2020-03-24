@@ -35,7 +35,7 @@ For anyone who is interested in hiring any of the services we provide you can [S
 # [View all implemented hacks]()
 
 1. <a href="#houdini">Houdini 18.0.391</a>
-2. <a href="#hexnator">Hexinator 1.11</a>
+2. <a href="#hexinator">Hexinator 1.11</a>
 3. <a href="#slickedit">SlickEdit 2019 24.0.1.0</a>
 4. <a href="#wing">Wing IDE Professional 7.2.1.0</a>
 5. <a href="#jriver">JRiver Media Center 26.26.0.37</a>
@@ -107,6 +107,24 @@ After the patch, the program is fully functional.
 ----
 
 <a name="wing" />
+
+## Wing IDE Professional 7.2.1.0
+
+**Only for version 7.2.1.0 and Linux x86_64**
+
+Wing Pro is a full-featured Python IDE designed for professional developers. It includes powerful editing, code intelligence, refactoring, debugging, search, unit testing, project management, revision control, and remote development features. 
+
+[Wing IDE home site](https://www.wingware.com/)
+
+License key required: **NO**
+```
+After the patch, the program is fully functional.
+```
+
+![wp_big](./images/wing/wp_big.jpg)
+![wp_small](./images/wing/wp_small.jpg)
+
+----
 
 <a name="jriver" />
 
