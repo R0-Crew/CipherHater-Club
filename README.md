@@ -427,7 +427,7 @@ After the patch, the program is fully functional.
 
 Create collections of materials by combining and tweaking existing resources, or by building new materials from photos and high-res scans.Craft a specific catalog of materials from real-world references, or simply experiment until you find results you love – in all cases, Alchemist brings phenomenal speed and ease of use to your workflow.
 
-[Substance Alchemis home site](https://www.substance3d.com/products/substance-alchemist/)
+[Substance Alchemist home site](https://www.substance3d.com/products/substance-alchemist/)
 
 License key required: **NO**
 ```
@@ -438,6 +438,31 @@ After the patch, the program is fully functional.
 ![alch_small](./images/sub/alch_small.jpg)
 
 ----
+
+<a name="softmaker" />
+
+## SoftMaker Office 2018 build S976.0313
+
+**Only for version S976.0313 and Linux x86_64**
+
+Your new Office suite Linux.
+
+[SoftMaker Office home site](https://www.softmaker.com/en/softmaker-office)
+
+License key required: **NO**
+```
+After the patch, the program is fully functional.
+```
+
+![planbig](./images/soffice/planbig.jpg)
+![pbig](./images/office/pbig.jpg)
+![office](./images/office/office.jpg)
+![office_small](./images/office/office_small.jpg)
+![plansmall](./images/office/plansmall.jpg)
+![psmall](./images/office/psmall.jpg)
+
+----
+
 
 
 ## [Detailed explanation]()
