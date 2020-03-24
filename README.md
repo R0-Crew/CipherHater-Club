@@ -66,7 +66,37 @@ After the patch, the program is fully functional.
 
 <a name="hexinator" />
 
+## Hexinator 1.11
+
+**Only for version 1.11 and Linux x86_64**
+
+Powerful free Hex Editor for Windows and Linux.
+
+[Hexinator home site](https://hexinator.com/)
+
+License key required: **NO**
+```
+After the patch, the program is fully functional.
+```
+![hex_big](./images/hexinator/hex_big.jpg)
+![fx_small](./images/hexinator/hex_small.jpg)
+![fx_about](./images/hexinator/hex_about.jpg)
+
 <a name="slickedit" />
+
+**Only for version 24.0.1.0 and Linux x86_64**
+
+SlickEdit 2019 is a cross-platform, multi-language code editor that gives programmers the ability to code in over 70 languages on 9 platforms. This latest version builds on the company’s 30 years of experience in enabling developers and development teams to create, navigate, modify, build, and debug code faster and more accurately. SlickEdit 2018 delivers a wide range of powerful new features and existing feature enhancements.
+
+[SlickEdit 2019 home site](https://www.slickedit.com/)
+
+License key required: **YES**
+```
+After the patch, the program is fully functional.
+```
+
+![slickbig](./images/slickedit/slickbig.jpg)
+![slicksmall](./images/slickedit/slicksmall.jpg)
 
 <a name="wing" />
 
