@@ -271,6 +271,90 @@ After the patch, the program is fully functional.
 
 ----
 
+<a name="textpack" />
+
+## TexturePacker 5.3.0
+
+**Only for version 5.3.0 and Linux x86_64**
+
+CREATE OPTIMIZED SPRITE SHEETS
+
+[TexturePacker home site](https://www.codeandweb.com/)
+
+License key required: **NO**
+```
+After the patch, the program is fully functional.
+```
+
+![tp_big](./images/codeweb/tp_big.jpg)
+![tp_small](./images/codeweb/tp_small.jpg)
+![tp_spalsh.jpg](./images/codeweb/tp_spalsh.jpg)
+
+----
+
+<a name="sprite" />
+
+## SpriteIlluminator 1.5.4
+
+**Only for version 1.5.4 and Linux x86_64**
+
+Normal Map Editor for dynamic lighting and special effects.
+
+[SpriteIlluminator home site](https://www.codeandweb.com/)
+
+License key required: **NO**
+```
+After the patch, the program is fully functional.
+```
+
+![si_big](./images/codeweb/si_big.jpg)
+![si_spalsh.jpg](./images/codeweb/si_spalsh.jpg)
+
+----
+
+<a name="physics" />
+
+## PhysicsEditor 1.8.4
+
+**Only for version 1.8.4 and Linux x86_64**
+
+Physics shape editor for your 2d game project.
+Edit 2d collision polygons and physics parameters with ease.
+
+[PhysicsEditor home site](https://www.codeandweb.com/)
+
+License key required: **NO**
+```
+After the patch, the program is fully functional.
+```
+
+![pe_big](./images/codeweb/pe_big.jpg)
+![pe_small](./images/codeweb/pe_small.jpg)
+![pe_spalsh.jpg](./images/codeweb/pe_spalsh.jpg)
+
+----
+
+<a name="babel" />
+
+## BabelEdit 2.6.1
+
+**Only for version 2.6.1 and Linux x86_64**
+
+Translation editor for (web) apps.
+
+[BabelEdit home site](https://www.codeandweb.com/)
+
+License key required: **NO**
+```
+After the patch, the program is fully functional.
+```
+
+![be_big](./images/codeweb/be_big.jpg)
+![be_small](./images/codeweb/be_small.jpg)
+![be_spalsh.jpg](./images/codeweb/be_spalsh.jpg)
+
+----
+
 ## [Detailed explanation]()
 
 For anyone who is interested in pay of the this patch we provide you can [Send E-Mail](mailto:cipherhater@protonmail.com) we will reply your email as soon as we get it and give you further details on how the payment is to be done and the amount duration as well that will be required for receiving patch. 
