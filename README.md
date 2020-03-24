@@ -4,7 +4,7 @@
 
 <div style="text-align:center" markdown="1">
 
-![HACK](./team.jpeg)
+![HACK](./team.png)
 
 </div>
 
