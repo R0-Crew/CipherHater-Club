@@ -56,7 +56,7 @@ For anyone who is interested in hiring any of the services we provide you can [S
 20. <a href="#masterpdf">Master PDF Editor 5.4.38</a>
 21. <a href="#eagle">Autodesk EAGLE Version 9.6.0</a>
 22. <a href="#varicad">VariCAD 2020-1.06 (20191119)</a>
-23. <a href="#qcad2d"QCAD – 2D CAD Version 3.24.3</a>
+23. <a href="#qcad2d">QCAD – 2D CAD Version 3.24.3</a>
 24. <a href="#qcadcam">QCAD/CAM Version 3.24.3</a>
 25. <a href="#sublimetext">Sublime Text 3</a>
 26. <a href="#sublimemerge">Sublime Merge</a>
