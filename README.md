@@ -42,6 +42,26 @@ For anyone who is interested in hiring any of the services we provide you can [S
 6. <a href="#jriver">JRiver Media Center 26.26.0.37</a>
 7. <a href="#seolog">SEO Log File Analyser 3.3</a>
 8. <a href="#seospider">Screaming Frog SEO Spider 12.6</a>
+9. <a href="#turboprint">TurboPrint 2.49-1</a>
+10. <a href="#bcad">BricsCAD 20.1.10 and 19.2.15</a>
+11. <a href="#textpack">TexturePacker 5.3.0</a>
+12. <a href="#sprite">SpriteIlluminator 1.5.4</a>
+13. <a href="#physics">PhysicsEditor 1.8.4</a>
+14. <a href="#babel">BabelEdit 2.6.1</a>
+15. <a href="#after">Corel AfterShot Pro 3</a>
+16. <a href="#spaint">Substance Painter 2019-3.3</a>
+17. <a href="#sdesign">Substance Designer 2019.3.3</a>
+18. <a href="#salchem">Substance Alchemist 2.1.0</a>
+19. <a href="#softmaker">SoftMaker Office 2018 build S976.0313</a>
+20. <a href="#masterpdf">Master PDF Editor 5.4.38</a>
+21. <a href="#eagle">Autodesk EAGLE Version 9.6.0</a>
+22. <a href="#varicad">VariCAD 2020-1.06 (20191119)</a>
+23. <a href="#qcad2d"QCAD – 2D CAD Version 3.24.3</a>
+24. <a href="#qcadcam">QCAD/CAM Version 3.24.3</a>
+25. <a href="#sublimetext">Sublime Text 3</a>
+26. <a href="#sublimemerge">Sublime Merge</a>
+27. <a href="#vuescan">VueScan 9 x64 9.7.25</a>
+28. <a href="#flexbv">FlexBV x64</a>
 
 ----
 
