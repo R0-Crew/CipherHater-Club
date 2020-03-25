@@ -60,7 +60,7 @@ For anyone who is interested in hiring any of the services we provide you can [S
 24. <a href="#qcadcam">QCAD/CAM Version 3.24.3</a>
 25. <a href="#sublimetext">Sublime Text 3</a>
 26. <a href="#sublimemerge">Sublime Merge</a>
-27. <a href="#vuescan">VueScan 9 x64 9.7.25</a>
+27. <a href="#vuescan">VueScan 9 x64 9.7.26</a>
 28. <a href="#flexbv">FlexBV x64</a>
 
 ----
@@ -617,7 +617,7 @@ After the patch, the program is fully functional.
 
 ## VueScan 9 x64
 
-**Only for version v9.7.25 and Linux x86_64**
+**Only for version v9.7.26 and Linux x86_64**
 
 VueScan is an application for scanning documents, photos, film, and slides.
 VueScan supports over 6000 scanners from 42 manufacturers – even when there
