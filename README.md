@@ -37,7 +37,7 @@ For anyone who is interested in hiring any of the services we provide you can [S
 1. <a href="#houdini">Houdini 18.0.391</a>
 2. <a href="#maya">Autodesk Maya 2020.1</a>
 3. <a href="#mobpro">Autodesk MotionBuilder 2020</a>
-4. <a href="#hexinator">Hexinator 1.11</a>
+4. <a href="#hexinator">Hexinator 1.12</a>
 5. <a href="#slickedit">SlickEdit 2019 24.0.1.0</a>
 6. <a href="#wing">Wing IDE Professional 7.2.1.0</a>
 7. <a href="#jriver">JRiver Media Center 26.26.0.37</a>
@@ -140,7 +140,7 @@ After the patch, the program is fully functional.
 
 <a name="hexinator" />
 
-## Hexinator 1.11
+## Hexinator 1.12
 
 **Only for version 1.11 and Linux x86_64**
 
