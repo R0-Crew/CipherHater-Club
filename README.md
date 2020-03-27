@@ -148,7 +148,7 @@ Indigo Renderer is an unbiased, photorealistic GPU and CPU renderer aimed at ult
 
 [Indigo Renderer home site](https://www.indigorenderer.com/)
 
-License key required: **NO (Available with key generator)**
+License key required: **YES (Available with key generator)**
 ```
 After the patch, the program is fully functional.
 ```
