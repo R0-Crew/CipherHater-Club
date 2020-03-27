@@ -153,11 +153,11 @@ License key required: **NO (Available with key generator)**
 After the patch, the program is fully functional.
 ```
 
-![ind_big](./images/ind/ind_big.jpg)
-![ind_about](./images/ind/ind_about.jpg)
-![ind_net](./images/ind/ind_net.jpg)
-![ind_lic](./images/ind/ind_lic.jpg)
-![ind_small](./images/ind/ind_small.jpg)
+![ind_big](./images/ind/4.4.6/ind_big.jpg)
+![ind_about](./images/ind/4.4.6/ind_about.jpg)
+![ind_net](./images/ind/4.4.6/ind_net.jpg)
+![ind_lic](./images/ind/4.4.6/ind_lic.jpg)
+![ind_small](./images/ind/4.4.6/ind_small.jpg)
 
 ----
 
