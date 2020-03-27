@@ -142,7 +142,7 @@ After the patch, the program is fully functional.
 
 ## Hexinator 1.12
 
-**Only for version 1.11 and Linux x86_64**
+**Only for version 1.12 and Linux x86_64**
 
 Powerful free Hex Editor for Windows and Linux.
 
