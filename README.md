@@ -142,7 +142,7 @@ After the patch, the program is fully functional.
 
 ## Indigo Renderer v4+
 
-**Only for version 4.2.27/4.4.6 and Linux x86_64**
+**Only for version 4.2.27/4.4.7 and Linux x86_64**
 
 Indigo Renderer is an unbiased, photorealistic GPU and CPU renderer aimed at ultimate image quality, by accurately simulating the physics of light. State of the art rendering performance, materials and cameras models - it's all made simple through an interactive, photographic approachwith few abstract settings, letting you concentrate on lighting and composing your imagery.
 
@@ -153,11 +153,11 @@ License key required: **YES (Available with key generator)**
 After the patch, the program is fully functional.
 ```
 
-![ind_big](./images/ind/4.4.6/ind_big.jpg)
-![ind_about](./images/ind/4.4.6/ind_about.jpg)
-![ind_net](./images/ind/4.4.6/ind_net.jpg)
+![ind_big](./images/ind/4.4.7/ind_big.jpg)
+![ind_about](./images/ind/4.4.7/ind_about.jpg)
+![ind_net](./images/ind/4.4.7/ind_net.jpg)
 ![ind_lic](./images/ind/4.4.6/ind_lic.jpg)
-![ind_small](./images/ind/4.4.6/ind_small.jpg)
+![ind_small](./images/ind/4.4.7/ind_small.jpg)
 
 ----
 
