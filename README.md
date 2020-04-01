@@ -647,7 +647,7 @@ After the patch, the program is fully functional.
 
 ## Sublime Merge
 
-**For all builds and 2002 Linux x86_64**
+**For all builds and 2004 Linux x86_64**
 
 SublimeMerge Git Client, done Sublime.
 
@@ -658,8 +658,8 @@ License key required: **YES**
 After the patch, the program is fully functional.
 ```
 
-![2002_big](./images/sublime/2002_big.jpg)
-![2002](./images/sublime/2002.jpg)
+![2002_big](./images/sublime/2004_big.jpg)
+![2002](./images/sublime/2004.jpg)
 
 ----
 
@@ -667,7 +667,7 @@ After the patch, the program is fully functional.
 
 ## VueScan 9 x64
 
-**Only for version v9.7.26 and Linux x86_64**
+**Only for version v9.7.27 and Linux x86_64**
 
 VueScan is an application for scanning documents, photos, film, and slides.
 VueScan supports over 6000 scanners from 42 manufacturers – even when there
