@@ -711,7 +711,9 @@ After the patch, the program is fully functional.
 - [Warning! To access the CipherHater resource, you need the Tor Browser!](https://www.torproject.org/download/)
 
 ----
+
 [![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/3PY8prh5RLbuGtyBq4DCvP9xKVw7FZZkuR)](https://en.cryptobadges.io/donate/3PY8prh5RLbuGtyBq4DCvP9xKVw7FZZkuR)
+
 ----
 
 <center>
