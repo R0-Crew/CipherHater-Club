@@ -64,6 +64,7 @@ For anyone who is interested in hiring any of the services we provide you can [S
 28. <a href="#sublimemerge">Sublime Merge 2004</a>
 29. <a href="#vuescan">VueScan 9 x64 9.7.27</a>
 30. <a href="#flexbv">FlexBV 1145 x64</a>
+31. <a href="#serviio">Serviio v2.0</a>
 
 ----
 
@@ -691,7 +692,7 @@ After the patch, the program is fully functional.
 
 **Only for version R1060/R1115/R1145 and Linux x86_64**
 
-FlexBV interlinks boardviews and schematics saving you the hassle of manually cross-referencing, to provide a smoother repair process, leaving you to keep your mind focused on finding the fault
+FlexBV interlinks boardviews and schematics saving you the hassle of manually cross-referencing, to provide a smoother repair process, leaving you to keep your mind focused on finding the fault.
 
 [FlexBV home site](https://pldaniels.com/flexbv/)
 
@@ -702,6 +703,26 @@ After the patch, the program is fully functional.
 
 ![flexbv_big](./images/flexbv/flexbv_big.jpg)
 ![flexbv_small](./images/flexbv/flexbv_small.jpg)
+
+----
+
+<a name="serviio" />
+
+## Serviio v2.0 Pro
+
+**Only for version v2.0 and Linux x86_64**
+
+Serviio is a free media server. It allows you to stream your media files (music, video or images) to renderer devices (e.g. a TV set, Bluray player, games console or mobile phone) on your connected home network.
+
+[Serviio home site](https://www.serviio.org/)
+
+License key required: **NO**
+```
+After the patch, the program is fully functional.
+```
+
+![serviio](./images/serviio/serviio.jpg)
+![serviio_small](./images/serviio/serviio_small.jpg)
 
 ----
 
