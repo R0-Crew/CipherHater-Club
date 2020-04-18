@@ -648,7 +648,7 @@ After the patch, the program is fully functional.
 
 ## Sublime Merge
 
-**For all builds and 2006 Linux x86_64**
+**For all builds and 2009 Linux x86_64**
 
 SublimeMerge Git Client, done Sublime.
 
@@ -659,8 +659,8 @@ License key required: **YES**
 After the patch, the program is fully functional.
 ```
 
-![2002_big](./images/sublime/2006_big.jpg)
-![2002](./images/sublime/2006.jpg)
+![2002_big](./images/sublime/2009_big.jpg)
+![2002](./images/sublime/2009.jpg)
 
 ----
 
