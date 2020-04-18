@@ -659,8 +659,8 @@ License key required: **YES**
 After the patch, the program is fully functional.
 ```
 
-![2002_big](./images/sublime/2009_big.jpg)
-![2002](./images/sublime/2009.jpg)
+![2009_big](./images/sublime/2009_big.jpg)
+![2009](./images/sublime/2009.jpg)
 
 ----
 
