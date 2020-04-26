@@ -39,7 +39,7 @@ For anyone who is interested in hiring any of the services we provide you can [S
 3. <a href="#mobpro">Autodesk MotionBuilder 20.0.0.37</a>
 4. <a href="#indigo">Indigo Renderer 4.4.7</a>
 5. <a href="#hexinator">Hexinator 1.12</a>
-6. <a href="#slickedit">SlickEdit 2019 24.0.1.0</a>
+6. <a href="#slickedit">SlickEdit 2019 24.0.2.0</a>
 7. <a href="#wing">Wing IDE Professional 7.2.2.0</a>
 8. <a href="#jriver">JRiver Media Center 26.26.0.37</a>
 9. <a href="#seolog">SEO Log File Analyser 3.3</a>
@@ -185,9 +185,9 @@ After the patch, the program is fully functional.
 
 <a name="slickedit" />
 
-## SlickEdit 2019 24.0.1.0
+## SlickEdit 2019 24.0.2.0
 
-**Only for version 24.0.1.0 and Linux x86_64**
+**Only for version 24.0.2.0 and Linux x86_64**
 
 SlickEdit 2019 is a cross-platform, multi-language code editor that gives programmers the ability to code in over 70 languages on 9 platforms. This latest version builds on the company’s 30 years of experience in enabling developers and development teams to create, navigate, modify, build, and debug code faster and more accurately. SlickEdit 2018 delivers a wide range of powerful new features and existing feature enhancements.
 
