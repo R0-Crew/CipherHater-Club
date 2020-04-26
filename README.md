@@ -40,7 +40,7 @@ For anyone who is interested in hiring any of the services we provide you can [S
 4. <a href="#indigo">Indigo Renderer 4.4.7</a>
 5. <a href="#hexinator">Hexinator 1.12</a>
 6. <a href="#slickedit">SlickEdit 2019 24.0.1.0</a>
-7. <a href="#wing">Wing IDE Professional 7.2.1.0</a>
+7. <a href="#wing">Wing IDE Professional 7.2.2.0</a>
 8. <a href="#jriver">JRiver Media Center 26.26.0.37</a>
 9. <a href="#seolog">SEO Log File Analyser 3.3</a>
 10. <a href="#seospider">Screaming Frog SEO Spider 12.6</a>
@@ -205,21 +205,22 @@ After the patch, the program is fully functional.
 
 <a name="wing" />
 
-## Wing IDE Professional 7.2.1.0
+## Wing IDE Professional 7.2.2.0
 
-**Only for version 7.2.1.0 and Linux x86_64**
+**Only for version 7.2.2.0 and Linux x86_64**
 
 Wing Pro is a full-featured Python IDE designed for professional developers. It includes powerful editing, code intelligence, refactoring, debugging, search, unit testing, project management, revision control, and remote development features. 
 
 [Wing IDE home site](https://www.wingware.com/)
 
-License key required: **NO**
+License key required: **YES** (Available with key generator)
 ```
 After the patch, the program is fully functional.
 ```
 
 ![wp_big](./images/wing/wp_big.jpg)
 ![wp_small](./images/wing/wp_small.jpg)
+![wp_about](./images/wing/wing_about.jpg)
 
 ----
 
