@@ -45,7 +45,7 @@ For anyone who is interested in hiring any of the services we provide you can [S
 9. <a href="#seolog">SEO Log File Analyser 3.3</a>
 10. <a href="#seospider">Screaming Frog SEO Spider 12.6</a>
 11. <a href="#turboprint">TurboPrint 2.49-1</a>
-12. <a href="#bcad">BricsCAD 20.2.05 and 19.2.15</a>
+12. <a href="#bcad">BricsCAD 20.2.06 and 19.2.15</a>
 13. <a href="#textpack">TexturePacker 5.3.0</a>
 14. <a href="#sprite">SpriteIlluminator 1.5.4</a>
 15. <a href="#physics">PhysicsEditor 1.8.4</a>
@@ -307,11 +307,11 @@ After the patch, the program is fully functional.
 
 <a name="bcad" />
 
-## BricsCAD 20.2.05 and 19.2.15
+## BricsCAD 20.2.06 and 19.2.15
 
-**Only for version 20.2.05/19.2.15 and Linux x86_64**
+**Only for version 20.2.06/19.2.15 and Linux x86_64**
 
-**Communicator version 20.2.01/19.2.15 and Linux x86_64**
+**Communicator version 20.2.01 and Linux x86_64**
 
 BricsCAD is the modern CAD alternative. It is based on DWG, and it is compatible with everything you know. BricsCAD is available as a perpetual license that you can buy once and use forever.
 
@@ -325,7 +325,7 @@ After the patch, the program is fully functional.
 ![brics_big](./images/brics/20.2.03/brics_big.jpg)
 ![brics_launcher.jpg](./images/brics/20.2.03/brics_launcher.jpg)
 ![brics_lic.jpg](./images/brics/20.2.03/brics_lic.jpg)
-![brics_small.jpg](./images/brics/20.2.05/brics_small.jpg)
+![brics_small.jpg](./images/brics/20.2.06/brics_small.jpg)
 
 ----
 
