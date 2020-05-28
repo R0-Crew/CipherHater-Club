@@ -649,7 +649,7 @@ After the patch, the program is fully functional.
 
 ## Sublime Merge
 
-**For all builds and 2011 Linux x86_64**
+**For all builds and 2020 Linux x86_64**
 
 SublimeMerge Git Client, done Sublime.
 
@@ -660,8 +660,8 @@ License key required: **YES**
 After the patch, the program is fully functional.
 ```
 
-![2011_big](./images/sublime/2011_big.jpg)
-![2011](./images/sublime/2011.jpg)
+![2020_big](./images/sublime/2020_big.jpg)
+![2020](./images/sublime/2020.jpg)
 
 ----
 
