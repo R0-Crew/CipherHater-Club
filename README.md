@@ -31,6 +31,8 @@
 
 For anyone who is interested in hiring any of the services we provide you can [Send E-Mail](mailto:cipherhater@protonmail.com) we will reply your email as soon as we get it and give you further details on how the job is to be done and the time duration as well that will be required but we make sure we deliver the task done on or before the date of delivery.
 
+**Why is hacking paid?** We do the **PRIMARY hack** – which no one has done yet. After we sell the hacked version it will be perhaps available throughout the network for free and based on it you can hack versions for Mac and Windows. Now do you understand why this is so? Users who paid for hacking become members of the club and have a subscription for the lifetime of a certain version but do not have the right to distribute new versions on the network. If a new version (which no one has bought yet and was obtained by subscription) is found on the network, then everyone who has a subscription will lose it without me asking who posted it on the network.
+
 
 # [View all implemented hacks]()
 
@@ -54,7 +56,7 @@ For anyone who is interested in hiring any of the services we provide you can [S
 18. <a href="#spaint">Substance Painter 2019-3.3</a>
 19. <a href="#sdesign">Substance Designer 2019.3.3</a>
 20. <a href="#salchem">Substance Alchemist 2.1.0</a>
-21. <a href="#softmaker">SoftMaker Office 2018 build S976.0313</a>
+21. <a href="#softmaker">SoftMaker Office 2021 build S1014.0529</a>
 22. <a href="#masterpdf">Master PDF Editor 5.4.38</a>
 23. <a href="#eagle">Autodesk EAGLE Version 9.6.0</a>
 24. <a href="#varicad">VariCAD 2020-1.10 (20191119)</a>
@@ -499,9 +501,9 @@ After the patch, the program is fully functional.
 
 <a name="softmaker" />
 
-## SoftMaker Office 2018 build S976.0313
+## SoftMaker Office 2021 build S1014.0529
 
-**Only for version S976.0313 and Linux x86_64**
+**Only for Linux x86_64**
 
 Your new Office suite Linux.
 
@@ -512,12 +514,12 @@ License key required: **NO**
 After the patch, the program is fully functional.
 ```
 
-![planbig](./images/soffice/planbig.jpg)
-![pbig](./images/soffice/pbig.jpg)
-![office](./images/soffice/office.jpg)
-![office_small](./images/soffice/office_small.jpg)
-![plansmall](./images/soffice/plansmall.jpg)
-![psmall](./images/soffice/psmall.jpg)
+![tbig](./images/soffice/2021/tbig.jpg)
+![planbig](./images/soffice/2021/planbig.jpg)
+![pbig](./images/soffice/2021/pbig.jpg)
+![tsmall](./images/soffice/2021/tsmall.jpg)
+![plansmall](./images/soffice/2021/plansmall.jpg)
+![psmall](./images/soffice/2021/psmall.jpg)
 
 ----
 
