@@ -731,7 +731,7 @@ After the patch, the program is fully functional.
 
 ## [Access to - Darknet Website / Deep Web Hidden Sites](http://cipherhater.torpress2sarn7xw.onion/)
 
-- [Site temporarily unavailable due to proprietary assholes...](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQQZhe4iOKMKNkd1pXnfvDfTMYZTabCQxEvVQ&usqp=CAU)
+- [Site temporarily unavailable due to proprietary assholes...]()
 
 - [Warning! To access the CipherHater resource, you need the Tor Browser!](https://www.torproject.org/download/)
 
