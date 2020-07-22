@@ -730,7 +730,12 @@ After the patch, the program is fully functional.
 
 ----
 
-- [![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/3PY8prh5RLbuGtyBq4DCvP9xKVw7FZZkuR)](https://en.cryptobadges.io/donate/3PY8prh5RLbuGtyBq4DCvP9xKVw7FZZkuR)
+
+## Donate
+
+Bitcoin donations are being used to fund a fully monitored hacking project or help maintain one. We'll provide you with unmatched transparency and accountability of our work. Please join us!
+
+- [![Donate using wallet addresses](https://en.cryptobadges.io/badge/big/3PY8prh5RLbuGtyBq4DCvP9xKVw7FZZkuR)](https://en.cryptobadges.io/donate/3PY8prh5RLbuGtyBq4DCvP9xKVw7FZZkuR)
 
 
 ----
