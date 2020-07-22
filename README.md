@@ -727,17 +727,6 @@ After the patch, the program is fully functional.
 ![serviio](./images/serviio/serviio.jpg)
 ![serviio_small](./images/serviio/serviio_small.jpg)
 
-----
-
-## [Access to - Darknet Website / Deep Web Hidden Sites](http://cipherhater.torpress2sarn7xw.onion/)
-
-- [Site temporarily unavailable due to proprietary assholes...](./asshole.png)
-
-- [Warning! To access the CipherHater resource, you need the Tor Browser!](https://www.torproject.org/download/)
-
-----
-
-- [![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/3PY8prh5RLbuGtyBq4DCvP9xKVw7FZZkuR)](https://en.cryptobadges.io/donate/3PY8prh5RLbuGtyBq4DCvP9xKVw7FZZkuR)
 
 ----
 
