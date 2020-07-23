@@ -31,7 +31,7 @@
 
 For anyone who is interested in hiring any of the services we provide you can [Send E-Mail](mailto:cipherhater@protonmail.com) we will reply your email as soon as we get it and give you further details on how the job is to be done and the time duration as well that will be required but we make sure we deliver the task done on or before the date of delivery.
 
-**Why is hacking paid?** We do the **PRIMARY hack** – which no one has done yet. After we sell the hacked version it will be perhaps available throughout the network for free and based on it you can hack versions for Mac and Windows. Now do you understand why this is so? Users who paid for hacking become members of the club and have a subscription for the lifetime of a certain version but do not have the right to distribute new versions on the internet. If a new version is found on the public network, then everyone who has a subscription will lose it without me asking who uploaded it on the warez sites.
+**Why is hacking paid?** We do the **PRIMARY hack** – which no one has done yet. After we sell the hacked version it will be perhaps available throughout the public network for free and based on it you can hack versions for Mac and Windows. Now do you understand why this is so? Users who paid for hacking become members of the club and have a subscription for the lifetime of a certain version but do not have the right to distribute new versions on the internet. If a new version is found on the public network, then everyone who has a subscription will lose it without me asking who uploaded it on the warez sites.
 
 
 # [View all implemented hacks]()
