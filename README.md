@@ -11,7 +11,7 @@
 
 <center>
     <p><b>
-        "We do not pay for programs that you do not know how to protect..." &copy; CipherHater
+        "We always hack programs which you cannot competently protect..." &copy; CipherHater
     </b></p>
 </center>
 
