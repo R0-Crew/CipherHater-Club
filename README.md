@@ -57,7 +57,7 @@ For anyone who is interested in hiring any of the services we provide you can [S
 19. <a href="#sdesign">Substance Designer 2019.3.3</a>
 20. <a href="#salchem">Substance Alchemist 2.1.0</a>
 21. <a href="#softmaker">SoftMaker Office 2021 build S1016.0624</a>
-22. <a href="#masterpdf">Master PDF Editor 5.4.38</a>
+22. <a href="#masterpdf">Master PDF Editor 5.6.20</a>
 23. <a href="#eagle">Autodesk EAGLE Version 9.6.0</a>
 24. <a href="#varicad">VariCAD 2020-1.10 (20191119)</a>
 25. <a href="#qcad2d">QCAD – 2D CAD Version 3.24.3</a>
@@ -525,9 +525,9 @@ After the patch, the program is fully functional.
 
 <a name="masterpdf" />
 
-## Master PDF Editor 5.4.38
+## Master PDF Editor 5.6.20
 
-**Only for version 5.4.38 and Linux x86_64**
+**For all version and Linux x86_64**
 
 Master PDF Editor is straightforward, easy to use application for working with PDF documents equipped with powerful multi-purpose functionality. With Master PDF Editor you can easily view, create and modify PDF documents. The application enables you to merge several files into one, split a source document into multiple documents, and also to comment, sign and encrypt PDF files.
 
@@ -539,6 +539,7 @@ After the patch, the program is fully functional.
 ```
 
 ![mpdf](./images/mpdf/mpdf.jpg)
+![mpdf_reg](./images/mpdf/mpdf_reg.jpg)
 
 ----
 
