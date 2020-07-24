@@ -9,13 +9,6 @@
 </div>
 
 
-<center>
-    <p><b>
-        "We always hack programs which you cannot competently protect..." &copy; CipherHater
-    </b></p>
-</center>
-
-
  CipherHater Team is a group consisting of highly skilled hackers at different area of experties, capable of bypassing several cyber rules and protocol to get the expected result of any assigned task. Our hackers are technically effiecient enough with finishing up any job prior deadline, providing you with access and proofs of whatever it is that you need. We are well experienced Hackers who have learned diverse skills in simple, complex and critical Hacking jobs. Our guys are experts at what they do and thus handle tasks effieciently maintaining a clean and clear job with no trace leaving behind. Utmostly, we respect the interest of our clients.
 
 
