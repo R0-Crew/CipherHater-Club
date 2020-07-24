@@ -58,7 +58,7 @@ For anyone who is interested in hiring any of the services we provide you can [S
 27. <a href="#sublimetext">Sublime Text 3 3211</a>
 28. <a href="#sublimemerge">Sublime Merge 2025</a>
 29. <a href="#vuescan">VueScan 9 x64 9.7.29</a>
-30. <a href="#flexbv">FlexBV 1145 x64</a>
+30. <a href="#flexbv">FlexBV 1150 x64</a>
 31. <a href="#serviio">Serviio v2.0</a>
 
 ----
@@ -688,7 +688,7 @@ After the patch, the program is fully functional.
 
 ## FlexBV x64
 
-**Only for version R1060/R1115/R1145 and Linux x86_64**
+**Only for version R1060/R1115/R1150 and Linux x86_64**
 
 FlexBV interlinks boardviews and schematics saving you the hassle of manually cross-referencing, to provide a smoother repair process, leaving you to keep your mind focused on finding the fault.
 
