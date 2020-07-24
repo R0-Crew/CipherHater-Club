@@ -36,7 +36,7 @@ For anyone who is interested in hiring any of the services we provide you can [S
 
 # [View all implemented hacks]()
 
-1. <a href="#houdini">Houdini 18.0.499</a>
+1. <a href="#houdini">Houdini 18.0.532</a>
 2. <a href="#maya">Autodesk Maya 2020.1</a>
 3. <a href="#mobpro">Autodesk MotionBuilder 20.0.0.37</a>
 4. <a href="#indigo">Indigo Renderer 4.2.28/4.4.7</a>
@@ -78,9 +78,9 @@ For anyone who is interested in pay of the this patch we provide you can [Send E
 
 <a name="houdini" />
 
-## Houdini 18.0.499
+## Houdini 18.0.532
 
-**Only for version 18.0.499 and Linux x86_64**
+**For all version and Linux x86_64**
 
 Houdini 18.0 introduces PDG which is designed to enhance SideFX’s procedural architecture to distribute tasks and manage dependencies to better scale, automate, and analyze content pipelines for Film, TV, Games, Advertising and VR. In addition, there have been a number of enhancements to key features such as FLIP Fluids, volumes, destruction tools and more.
 
@@ -91,10 +91,11 @@ License key required: **YES (Available with key generator)**
 After the patch, the program is fully functional.
 ```
 
-![fx_big](./images/houdini/18.0.499/fx_big.jpg)
-![core](./images/houdini/18.0.499/about.jpg)
-![server](./images/houdini/18.0.499/server.jpg)
-![license](./images/houdini/18.0.499/license.jpg)
+![fx_big](./images/houdini/18.0.532/fx_big.jpg)
+![core](./images/houdini/18.0.532/about.jpg)
+![splash](./images/houdini/18.0.532/splash.jpg)
+![server](./images/houdini/18.0.532/server.jpg)
+![license](./images/houdini/18.0.532/license.jpg)
 
 ----
 
