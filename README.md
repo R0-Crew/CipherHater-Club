@@ -52,7 +52,7 @@ For anyone who is interested in hiring any of the services we provide you can [S
 21. <a href="#softmaker">SoftMaker Office 2021 build S1016.0624</a>
 22. <a href="#masterpdf">Master PDF Editor 5.6.20</a>
 23. <a href="#eagle">Autodesk EAGLE Version 9.6.0</a>
-24. <a href="#varicad">VariCAD 2020-1.10 (20191119)</a>
+24. <a href="#varicad">VariCAD 2020-1.11 (20191119)</a>
 25. <a href="#qcad2d">QCAD – 2D CAD Version 3.24.3</a>
 26. <a href="#qcadcam">QCAD/CAM Version 3.24.3</a>
 27. <a href="#sublimetext">Sublime Text 3 3211</a>
@@ -559,9 +559,9 @@ After the patch, the program is fully functional.
 
 <a name="varicad" />
 
-## VariCAD 2020-1.10 (20191119)
+## VariCAD 2020-1.11 (20191119)
 
-**Only for version 2020-1.10 (20191119) and Linux x86_64**
+**Only for version 2020-1.11 (20191119) and Linux x86_64**
 
 VariCAD is compact, fast, easy to use, and provides everything necessary for mechanical design.
 VariCAD is sold "fully loaded", including all features and functions, for one affordable price.
@@ -573,8 +573,8 @@ License key required: **NO**
 After the patch, the program is fully functional.
 ```
 
-![varicad](./images/varicad/1.10/varicad.jpg)
-![varicad_small](./images/varicad/1.10/varicad_small.jpg)
+![varicad](./images/varicad/1.11/varicad.jpg)
+![varicad_small](./images/varicad/1.11/varicad_small.jpg)
 
 ----
 
