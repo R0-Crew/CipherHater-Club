@@ -32,7 +32,7 @@ For anyone who is interested in hiring any of the services we provide you can [S
 1. <a href="#houdini">Houdini 18.0.532</a>
 2. <a href="#maya">Autodesk Maya 2020.1</a>
 3. <a href="#mobpro">Autodesk MotionBuilder 20.0.0.37</a>
-4. <a href="#indigo">Indigo Renderer 4.2.28/4.4.7</a>
+4. <a href="#indigo">Indigo Renderer 4.2.28/4.4.11</a>
 5. <a href="#hexinator">Hexinator 1.12</a>
 6. <a href="#slickedit">SlickEdit 2019 24.0.2.0</a>
 7. <a href="#wing">Wing IDE Professional 7.2.2.0</a>
@@ -139,7 +139,7 @@ After the patch, the program is fully functional.
 
 ## Indigo Renderer v4+
 
-**Only for version 4.2.28/4.4.7 and Linux x86_64**
+**For all version 4.2.28/4.4.11 and Linux x86_64**
 
 Indigo Renderer is an unbiased, photorealistic GPU and CPU renderer aimed at ultimate image quality, by accurately simulating the physics of light. State of the art rendering performance, materials and cameras models - it's all made simple through an interactive, photographic approachwith few abstract settings, letting you concentrate on lighting and composing your imagery.
 
@@ -150,11 +150,9 @@ License key required: **YES (Available with key generator)**
 After the patch, the program is fully functional.
 ```
 
-![ind_big](./images/ind/4.4.7/ind_big.jpg)
-![ind_about](./images/ind/4.4.7/ind_about.jpg)
-![ind_net](./images/ind/4.4.7/ind_net.jpg)
-![ind_lic](./images/ind/4.4.6/ind_lic.jpg)
-![ind_small](./images/ind/4.4.7/ind_small.jpg)
+![ind_big](./images/ind/4.4.11/ind_big.jpg)
+![ind_about](./images/ind/4.4.11/ind_about.jpg)
+![ind_lic](./images/ind/4.4.11/ind_lic.jpg)
 
 ----
 
