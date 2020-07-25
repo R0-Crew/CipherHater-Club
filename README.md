@@ -444,8 +444,8 @@ License key required: **NO**
 After the patch, the program is fully functional.
 ```
 
-![sp_big](./images/sub/sp_big.jpg)
-![sp_small](./images/sub/sp_small.jpg)
+![pain_big](./images/sub/pain_big.jpg)
+![pain_small](./images/sub/pain_small.jpg)
 
 ----
 
