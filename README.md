@@ -46,9 +46,9 @@ For anyone who is interested in hiring any of the services we provide you can [S
 15. <a href="#physics">PhysicsEditor 1.8.4</a>
 16. <a href="#babel">BabelEdit 2.6.1</a>
 17. <a href="#after">Corel AfterShot Pro 3 3.6.0.380</a>
-18. <a href="#spaint">Substance Painter 2019-3.3</a>
-19. <a href="#sdesign">Substance Designer 2019.3.3</a>
-20. <a href="#salchem">Substance Alchemist 2.1.0</a>
+18. <a href="#spaint">Substance Painter 2020.2.0</a>
+19. <a href="#sdesign">Substance Designer 2020.1.3</a>
+20. <a href="#salchem">Substance Alchemist 2020.2.1</a>
 21. <a href="#softmaker">SoftMaker Office 2021 build S1016.0624</a>
 22. <a href="#masterpdf">Master PDF Editor 5.6.20</a>
 23. <a href="#eagle">Autodesk EAGLE Version 9.6.0</a>
@@ -430,9 +430,9 @@ After the patch, the program is fully functional.
 
 <a name="spaint" />
 
-## Substance Painter 2019-3.3
+## Substance Painter 2020.2.0
 
-**Only for version 2019-3.3 and Linux x86_64**
+**For all version and Linux x86_64**
 
 All the tools you need to texture your 3D assets in one application.
 Substance Painter has smart materials, smart masks and integrated bakers, and a state of the art real-time viewport.
@@ -451,9 +451,9 @@ After the patch, the program is fully functional.
 
 <a name="sdesign" />
 
-## Substance Designer 2019.3.3
+## Substance Designer 2020.1.3
 
-**Only for version 2019.3.3 and Linux x86_64**
+**For all version and Linux x86_64**
 
 The industry standard for creating custom materials, Substance Designer gives you complete authoring control.
 Design tileable textures and patterns, and edit complete texture sets.
@@ -473,9 +473,9 @@ After the patch, the program is fully functional.
 
 <a name="salchem" />
 
-## Substance Alchemist 2.1.0
+## Substance Alchemist 2020.2.1
 
-**Only for version 2.1.0 and Linux x86_64**
+**For all version and Linux x86_64**
 
 Create collections of materials by combining and tweaking existing resources, or by building new materials from photos and high-res scans.Craft a specific catalog of materials from real-world references, or simply experiment until you find results you love – in all cases, Alchemist brings phenomenal speed and ease of use to your workflow.
 
