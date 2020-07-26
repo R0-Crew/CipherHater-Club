@@ -41,10 +41,10 @@ For anyone who is interested in hiring any of the services we provide you can [S
 10. <a href="#seospider">Screaming Frog SEO Spider 12.6</a>
 11. <a href="#turboprint">TurboPrint 2.49-1</a>
 12. <a href="#bcad">BricsCAD 20.2.09 and 19.2.15</a>
-13. <a href="#textpack">TexturePacker 5.3.0</a>
+13. <a href="#textpack">TexturePacker 5.4.0</a>
 14. <a href="#sprite">SpriteIlluminator 1.5.4</a>
 15. <a href="#physics">PhysicsEditor 1.8.4</a>
-16. <a href="#babel">BabelEdit 2.6.1</a>
+16. <a href="#babel">BabelEdit 2.7.1</a>
 17. <a href="#after">Corel AfterShot Pro 3 3.6.0.380</a>
 18. <a href="#spaint">Substance Painter 2020.2.0</a>
 19. <a href="#sdesign">Substance Designer 2020.1.3</a>
@@ -325,9 +325,9 @@ After the patch, the program is fully functional.
 
 <a name="textpack" />
 
-## TexturePacker 5.3.0
+## TexturePacker 5.4.0
 
-**Only for version 5.3.0 and Linux x86_64**
+**For all version and Linux x86_64**
 
 CREATE OPTIMIZED SPRITE SHEETS
 
@@ -388,9 +388,9 @@ After the patch, the program is fully functional.
 
 <a name="babel" />
 
-## BabelEdit 2.6.1
+## BabelEdit 2.7.1
 
-**Only for version 2.6.1 and Linux x86_64**
+**For all version and Linux x86_64**
 
 Translation editor for (web) apps.
 
