@@ -333,7 +333,7 @@ CREATE OPTIMIZED SPRITE SHEETS
 
 [TexturePacker home site](https://www.codeandweb.com/)
 
-License key required: **YES**
+License key required: **NO**
 ```
 After the patch, the program is fully functional.
 ```
@@ -348,13 +348,13 @@ After the patch, the program is fully functional.
 
 ## SpriteIlluminator 1.5.4
 
-**Only for version 1.5.4 and Linux x86_64**
+**For all version and Linux x86_64**
 
 Normal Map Editor for dynamic lighting and special effects.
 
 [SpriteIlluminator home site](https://www.codeandweb.com/)
 
-License key required: **YES**
+License key required: **NO**
 ```
 After the patch, the program is fully functional.
 ```
@@ -368,14 +368,14 @@ After the patch, the program is fully functional.
 
 ## PhysicsEditor 1.8.4
 
-**Only for version 1.8.4 and Linux x86_64**
+**For all version and Linux x86_64**
 
 Physics shape editor for your 2d game project.
 Edit 2d collision polygons and physics parameters with ease.
 
 [PhysicsEditor home site](https://www.codeandweb.com/)
 
-License key required: **YES**
+License key required: **NO**
 ```
 After the patch, the program is fully functional.
 ```
@@ -396,7 +396,7 @@ Translation editor for (web) apps.
 
 [BabelEdit home site](https://www.codeandweb.com/)
 
-License key required: **YES**
+License key required: **NO**
 ```
 After the patch, the program is fully functional.
 ```
