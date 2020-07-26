@@ -340,7 +340,7 @@ After the patch, the program is fully functional.
 
 ![tp_big](./images/codeweb/tp_big.jpg)
 ![tp_small](./images/codeweb/tp_small.jpg)
-![tp_spalsh.jpg](./images/codeweb/tp_spalsh.jpg)
+![tp_spalsh.jpg](./images/codeweb/tp_splash.jpg)
 
 ----
 
