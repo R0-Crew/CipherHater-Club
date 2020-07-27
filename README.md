@@ -61,6 +61,7 @@ For anyone who is interested in hiring any of the services we provide you can [S
 30. <a href="#flexbv">FlexBV 1150 x64</a>
 31. <a href="#serviio">Serviio v2.0</a>
 32. <a href="#3dcoat">3DCoat 4.8.20</a>
+33. <a href="#010editor">010 Editor 10.0.2</a>
 
 ----
 
@@ -744,6 +745,29 @@ After the patch, the program is fully functional.
 
 
 ----
+
+<a name="010editor" />
+
+
+## 010 Editor 10.0.2
+
+**For all version and Linux x86_64**
+
+Professional Text Editor + World's Best Hex Editor.
+
+[010 Editor home site](https://www.sweetscape.com/)
+
+License key required: **YES**
+```
+After the patch, the program is fully functional.
+```
+
+![010_big](./images/010/010_big.jpg)
+![010_lic](./images/010/010_lic.jpg)
+
+
+----
+
 
 
 ## Donate
