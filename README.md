@@ -60,7 +60,7 @@ For anyone who is interested in hiring any of the services we provide you can [S
 29. <a href="#vuescan">VueScan 9 x64 9.7.29</a>
 30. <a href="#flexbv">FlexBV 1150 x64</a>
 31. <a href="#serviio">Serviio v2.0</a>
-32. <a href="#3dcoat">3DCoat 4.8.20</a>
+32. <a href="#3dcoat">3DCoat 4.8.20/3DCprinting 1.1.09</a>
 33. <a href="#010editor">010 Editor 10.0.2</a>
 
 ----
@@ -727,7 +727,7 @@ After the patch, the program is fully functional.
 
 <a name="3dcoat" />
 
-## 3dCoat 4.8.20 Unlimited
+## 3dCoat 4.8.20 + 3DCprinting 1.1.09 Unlimited
 
 **For all version and Linux x86_64**
 
@@ -741,6 +741,7 @@ After the patch, the program is fully functional.
 ```
 
 ![3dcoat](./images/3DCoat/3dcoat_big.jpg)
+![3scoat_print](./images/3DCoat/3dcoat_print.jpg)
 ![3scoat_about](./images/3DCoat/3dcoat_about.jpg)
 
 
