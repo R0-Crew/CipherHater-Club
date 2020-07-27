@@ -60,6 +60,7 @@ For anyone who is interested in hiring any of the services we provide you can [S
 29. <a href="#vuescan">VueScan 9 x64 9.7.29</a>
 30. <a href="#flexbv">FlexBV 1150 x64</a>
 31. <a href="#serviio">Serviio v2.0</a>
+32. <a href="#3dcoat">3DCoat 4.8.20</a>
 
 ----
 
@@ -719,6 +720,27 @@ After the patch, the program is fully functional.
 
 ![serviio](./images/serviio/serviio.jpg)
 ![serviio_small](./images/serviio/serviio_small.jpg)
+
+
+----
+
+<a name="3dcoat" />
+
+## 3dCoat 4.8.20 Unlimited
+
+**For all version and Linux x86_64**
+
+3DCoat is the one application that has all the tools you need to take your 3D idea from a block of digital clay all the way to a production ready, fully textured organic or hard surface model.
+
+[3DCoat home site](https://3dcoat.com/)
+
+License key required: **NO**
+```
+After the patch, the program is fully functional.
+```
+
+![3dcoat](./images/3DCoat/3dcoat_big.jpg)
+![3scoat_about](./images/3DCoat/3dcoat_about.jpg)
 
 
 ----
