@@ -62,6 +62,7 @@ For anyone who is interested in hiring any of the services we provide you can [S
 31. <a href="#serviio">Serviio v2.0</a>
 32. <a href="#3dcoat">3DCoat 4.8.20/3DCprinting 1.1.09</a>
 33. <a href="#010editor">010 Editor 10.0.2</a>
+34. <a href="#mathematica">Wolfram Mathematica 12.1.1</a>
 
 ----
 
@@ -769,6 +770,29 @@ After the patch, the program is fully functional.
 
 ----
 
+<a name="mathematica" />
+
+
+## Wolfram Mathematica 12.1.1
+
+**For version 12+ and Linux x86_64**
+
+For three decades, Mathematica has defined the state of the art in technical computing—and provided the principal computation environment for millions of innovators, educators, students, and others around the world.
+
+[Mathematica home site](https://www.wolfram.com/mathematica/?source=nav)
+
+License key required: **YES**
+```
+After the generate key with keygen, the program is fully functional.
+```
+
+![wm_big.jpg](./images/wm/wm_big.jpg)
+![wm_1.jpg](./images/wm/wm_1.jpg)
+![wm_2.jpg](./images/wm/wm_2.jpg)
+![wm_sp.jpg](./images/wm/wm_sp.jpg)
+
+
+----
 
 
 ## Donate
