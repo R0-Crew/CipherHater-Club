@@ -1,5 +1,5 @@
 
-## [CipherHater Hacking Team](https://cipherhater.ga/)
+## [CipherHater Hacking Team](https://cipherhater.club/)
 
 
 <div style="text-align:center" markdown="1">
