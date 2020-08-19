@@ -56,7 +56,7 @@ For anyone who is interested in hiring any of the services we provide you can [S
 25. <a href="#qcad2d">QCAD – 2D CAD Version 3.24.3</a>
 26. <a href="#qcadcam">QCAD/CAM Version 3.24.3</a>
 27. <a href="#sublimetext">Sublime Text 3 3211</a>
-28. <a href="#sublimemerge">Sublime Merge 2028</a>
+28. <a href="#sublimemerge">Sublime Merge 2029</a>
 29. <a href="#vuescan">VueScan 9 x64 9.7.30</a>
 30. <a href="#flexbv">FlexBV 1150 x64</a>
 31. <a href="#serviio">Serviio v2.0</a>
@@ -647,7 +647,7 @@ After the patch, the program is fully functional.
 
 ## Sublime Merge
 
-**For all builds and 2027/2028 Linux x86_64**
+**For all builds and 2027/2029 Linux x86_64**
 
 SublimeMerge Git Client, done Sublime.
 
@@ -658,8 +658,8 @@ License key required: **YES**
 After the patch, the program is fully functional.
 ```
 
-![2028_big](./images/sublime/2028_big.jpg)
-![2028](./images/sublime/2028.jpg)
+![2029_big](./images/sublime/2029_big.jpg)
+![2029](./images/sublime/2029.jpg)
 ![2027](./images/sublime/2027.jpg)
 
 ----
