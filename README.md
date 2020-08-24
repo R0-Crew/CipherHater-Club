@@ -49,7 +49,7 @@ For anyone who is interested in hiring any of the services we provide you can [S
 18. <a href="#spaint">Substance Painter 2020.2.0</a>
 19. <a href="#sdesign">Substance Designer 2020.1.3</a>
 20. <a href="#salchem">Substance Alchemist 2020.2.1</a>
-21. <a href="#softmaker">SoftMaker Office 2021 build S1016.0624</a>
+21. <a href="#softmaker">SoftMaker Office 2021 build S1018.0818</a>
 22. <a href="#masterpdf">Master PDF Editor 5.6.42</a>
 23. <a href="#eagle">Autodesk EAGLE Version 9.6.0</a>
 24. <a href="#varicad">VariCAD 2020-1.11 (20191119)</a>
@@ -496,7 +496,7 @@ After the patch, the program is fully functional.
 
 <a name="softmaker" />
 
-## SoftMaker Office 2021 build S1016.0624
+## SoftMaker Office 2021 build S1018.0818
 
 **Only for Linux x86_64**
 
