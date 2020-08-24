@@ -50,7 +50,7 @@ For anyone who is interested in hiring any of the services we provide you can [S
 19. <a href="#sdesign">Substance Designer 2020.1.3</a>
 20. <a href="#salchem">Substance Alchemist 2020.2.1</a>
 21. <a href="#softmaker">SoftMaker Office 2021 build S1016.0624</a>
-22. <a href="#masterpdf">Master PDF Editor 5.6.29</a>
+22. <a href="#masterpdf">Master PDF Editor 5.6.42</a>
 23. <a href="#eagle">Autodesk EAGLE Version 9.6.0</a>
 24. <a href="#varicad">VariCAD 2020-1.11 (20191119)</a>
 25. <a href="#qcad2d">QCAD – 2D CAD Version 3.24.3</a>
@@ -520,7 +520,7 @@ After the patch, the program is fully functional.
 
 <a name="masterpdf" />
 
-## Master PDF Editor 5.6.29
+## Master PDF Editor 5.6.42
 
 **For all version and Linux x86_64**
 
