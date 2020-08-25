@@ -805,18 +805,6 @@ Bitcoin donations are being used to fund a fully monitored hacking project or he
 
 ----
 
-<center><p>
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-4ebbc594-c7dd-4c29-b3d0-32690de47a1f"></div>
-</p></center>
-
-----
-
-<center><p>
-<script src="https://apps.elfsight.com/p/platform.js" defer></script>
-<div class="elfsight-app-c844d313-eab2-468e-9ec5-35eaed7b53bc"></div>
-</p></center>
-
 <center>
     <p>
         Copyright &copy; 2019-2020 CipherHater All rights reserved.
