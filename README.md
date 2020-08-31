@@ -29,7 +29,7 @@ For anyone who is interested in hiring any of the services we provide you can [S
 
 # [Wall of shame (list open implemented hacks)](https://en.cryptobadges.io/donate/3PY8prh5RLbuGtyBq4DCvP9xKVw7FZZkuR)
 
-1. <a href="#houdini">Houdini 18.0.532</a>
+1. <a href="#houdini">Houdini 18.0.566</a>
 2. <a href="#maya">Autodesk Maya 2020.1</a>
 3. <a href="#mobpro">Autodesk MotionBuilder 20.0.0.37</a>
 4. <a href="#indigo">Indigo Renderer 4.2.28/4.4.11</a>
@@ -74,7 +74,7 @@ For anyone who is interested in pay of the this patch we provide you can [Send E
 
 <a name="houdini" />
 
-## Houdini 18.0.532
+## Houdini 18.0.566
 
 **For all version and Linux x86_64**
 
@@ -87,11 +87,11 @@ License key required: **YES (Available with key generator)**
 After the patch, the program is fully functional.
 ```
 
-![fx_big](./images/houdini/18.0.532/fx_big.jpg)
-![core](./images/houdini/18.0.532/about.jpg)
-![splash](./images/houdini/18.0.532/splash.jpg)
-![server](./images/houdini/18.0.532/server.jpg)
-![license](./images/houdini/18.0.532/license.jpg)
+![fx_big](./images/houdini/18.0.566/fx_big.jpg)
+![core](./images/houdini/18.0.566/about.jpg)
+![splash](./images/houdini/18.0.566/splash.jpg)
+![server](./images/houdini/18.0.566/server.jpg)
+![license](./images/houdini/18.0.566/license.jpg)
 
 ----
 
