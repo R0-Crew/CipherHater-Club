@@ -52,9 +52,9 @@ For anyone who is interested in hiring any of the services we provide you can [S
 21. <a href="#softmaker">SoftMaker Office 2021 build S1018.0818</a>
 22. <a href="#masterpdf">Master PDF Editor 5.6.42</a>
 23. <a href="#eagle">Autodesk EAGLE Version 9.6.0</a>
-24. <a href="#varicad">VariCAD 2020-1.11 (20191119)</a>
-25. <a href="#qcad2d">QCAD – 2D CAD Version 3.24.3</a>
-26. <a href="#qcadcam">QCAD/CAM Version 3.24.3</a>
+24. <a href="#varicad">VariCAD 2020-1.12 (20191119)</a>
+25. <a href="#qcad2d">QCAD – 2D CAD Version 3.25</a>
+26. <a href="#qcadcam">QCAD/CAM Version 3.25</a>
 27. <a href="#sublimetext">Sublime Text 3 3211</a>
 28. <a href="#sublimemerge">Sublime Merge 2032</a>
 29. <a href="#vuescan">VueScan 9 x64 9.7.32</a>
@@ -560,9 +560,9 @@ After the patch, the program is fully functional.
 
 <a name="varicad" />
 
-## VariCAD 2020-1.11 (20191119)
+## VariCAD 2020-1.12 (20191119)
 
-**Only for version 2020-1.11 (20191119) and Linux x86_64**
+**For all version and 2020-1.12 (20191119) and Linux x86_64**
 
 VariCAD is compact, fast, easy to use, and provides everything necessary for mechanical design.
 VariCAD is sold "fully loaded", including all features and functions, for one affordable price.
@@ -574,16 +574,16 @@ License key required: **NO**
 After the patch, the program is fully functional.
 ```
 
-![varicad](./images/varicad/1.11/varicad.jpg)
-![varicad_small](./images/varicad/1.11/varicad_small.jpg)
+![varicad](./images/varicad/1.12/varicad.jpg)
+![varicad_small](./images/varicad/1.12/varicad_small.jpg)
 
 ----
 
 <a name="qcad2d" />
 
-## QCAD-2D 3.24.3
+## QCAD-2D 3.25
 
-**Only for version 3.24.3 and Linux x86_64**
+**For all version and 3.25 and Linux x86_64**
 
 QCAD is a free, open source application for computer aided drafting (CAD) in two dimensions (2D). With QCAD you can create technical drawings such as plans for buildings, interiors, mechanical parts or schematics and diagrams. QCAD works on Windows, macOS and Linux. The source code of QCAD is released under the GPL version 3 (GPLv3), a popular Open Source license.
 
@@ -596,16 +596,15 @@ After the patch, the program is fully functional.
 
 ![qcad](./images/qcad/qcad.jpg)
 ![qcad_pro](./images/qcad/qcad_pro.jpg)
-![qcad_small](./images/qcad/qcad_small.jpg)
 
 
 ----
 
 <a name="qcadcam" />
 
-## QCAD/CAM 3.24.3
+## QCAD/CAM 3.25
 
-**Only for version 3.24.3 and Linux x86_64**
+**For all version and 3.25 and Linux x86_64**
 
 QCAD/CAM is QCAD Professional with a CAM (Computer-Aided Manufacturing) module. The QCAD/CAM software includes every tool and feature that QCAD Professional has - but in addition it also has some CAM specific tools to export drawings to machine readable file formats such as G-Code. Such files are usually used to control computer controlled machines (CNC) such as milling machines, engraving machines, LASER cutting machines, plasma cutting machines or water jet cutting machines.
 
@@ -618,7 +617,6 @@ After the patch, the program is fully functional.
 
 ![qcam](./images/qcad/qcam.jpg)
 ![qcam_pro](./images/qcad/qcam_pro.jpg)
-![qcam_small](./images/qcad/qcam_small.jpg)
 
 ----
 
