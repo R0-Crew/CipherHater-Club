@@ -679,8 +679,8 @@ License key required: **YES**
 After the patch, the program is fully functional.
 ```
 
-![vuescan](./images/vuescan/vuescan.jpg)
-![vuescan_small](./images/vuescan/vuescan_small.jpg)
+![vuescan](./images/vuescan/vuescan36.jpg)
+![vuescan_small](./images/vuescan/vuescan_small36.jpg)
 
 ----
 
