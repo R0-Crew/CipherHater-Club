@@ -57,7 +57,7 @@ For anyone who is interested in hiring any of the services we provide you can [S
 26. <a href="#qcadcam">QCAD/CAM Version 3.25</a>
 27. <a href="#sublimetext">Sublime Text 3 3211</a>
 28. <a href="#sublimemerge">Sublime Merge 2038</a>
-29. <a href="#vuescan">VueScan 9 x64 9.7.46</a>
+29. <a href="#vuescan">VueScan 9 x64 9.7.46 (Linux and Windows versions)</a>
 30. <a href="#flexbv">FlexBV 1150 x64</a>
 31. <a href="#serviio">Serviio v2.0</a>
 32. <a href="#3dcoat">3DCoat 4.8.20/3DCprinting 1.1.09</a>
@@ -666,7 +666,7 @@ After the patch, the program is fully functional.
 
 ## VueScan 9 x64
 
-**Only for version v9.7.46 and Linux x86_64**
+**For version v9.7.46 Linux x86_64. Additionally, there is a version for Windows x64!**
 
 VueScan is an application for scanning documents, photos, film, and slides.
 VueScan supports over 6000 scanners from 42 manufacturers – even when there
