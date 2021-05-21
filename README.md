@@ -55,8 +55,8 @@ For anyone who is interested in hiring any of the services we provide you can [S
 24. <a href="#varicad">VariCAD 2020-1.12 (20191119)</a>
 25. <a href="#qcad2d">QCAD – 2D CAD Version 3.25</a>
 26. <a href="#qcadcam">QCAD/CAM Version 3.25</a>
-27. <a href="#sublimetext">Sublime Text 3 3211</a>
-28. <a href="#sublimemerge">Sublime Merge 2038</a>
+27. <a href="#sublimetext">Sublime Text 4 4107</a>
+28. <a href="#sublimemerge">Sublime Merge 2056</a>
 29. <a href="#vuescan">VueScan 9 x64 9.7.46 (Linux/Windows/Mac versions)</a>
 30. <a href="#flexbv">FlexBV 1150 x64</a>
 31. <a href="#serviio">Serviio v2.0</a>
@@ -622,9 +622,9 @@ After the patch, the program is fully functional.
 
 <a name="sublimetext" />
 
-## Sublime Text 3
+## Sublime Text 4
 
-**For all builds and 3211 Linux x86_64**
+**For all builds and Linux x86_64**
 
 SublimeText a sophisticated text editor for code, markup and prose.
 
@@ -635,8 +635,8 @@ License key required: **YES**
 After the patch, the program is fully functional.
 ```
 
-![3211_big](./images/sublime/3211_big.jpg)
-![3211](./images/sublime/3211.jpg)
+![3211_big](./images/sublime/4107_big.jpg)
+![3211](./images/sublime/4107.jpg)
 
 
 ----
@@ -645,7 +645,7 @@ After the patch, the program is fully functional.
 
 ## Sublime Merge
 
-**For all builds and 2038 Linux x86_64**
+**For all builds and Linux x86_64**
 
 SublimeMerge Git Client, done Sublime.
 
@@ -656,8 +656,8 @@ License key required: **YES**
 After the patch, the program is fully functional.
 ```
 
-![2038_big](./images/sublime/2038_big.jpg)
-![2038](./images/sublime/2038.jpg)
+![2038_big](./images/sublime/2056_big.jpg)
+![2038](./images/sublime/2056.jpg)
 
 
 ----
