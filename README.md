@@ -425,9 +425,9 @@ License key required: **NO**
 After the patch, the program is fully functional.
 ```
 
-![aftershot_big](./images/after/aftershot_big.jpg)
-![aftershot_small](./images/after/aftershot_small.jpg)
-![aftershot_splash](./images/after/aftershot_splash.jpg)
+![aftershot_big](./images/aftershot/aftershot_big.jpg)
+![aftershot_small](./images/aftershot/aftershot_small.jpg)
+![aftershot_splash](./images/aftershot/aftershot_splash.jpg)
 
 ----
 
