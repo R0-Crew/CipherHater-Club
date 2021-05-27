@@ -45,7 +45,7 @@ For anyone who is interested in hiring any of the services we provide you can [S
 14. <a href="#sprite">SpriteIlluminator 1.5.4</a>
 15. <a href="#physics">PhysicsEditor 1.8.4</a>
 16. <a href="#babel">BabelEdit 2.7.1</a>
-17. <a href="#after">Corel AfterShot Pro 3 3.6.0.380</a>
+17. <a href="#after">Corel AfterShot Pro 3 3.7.0.446</a>
 18. <a href="#spaint">Substance Painter 2020.2.0</a>
 19. <a href="#sdesign">Substance Designer 2020.1.3</a>
 20. <a href="#salchem">Substance Alchemist 2020.2.1</a>
@@ -414,7 +414,7 @@ After the patch, the program is fully functional.
 
 ## Corel AfterShot Pro 3
 
-**Only for version 3.6.0.380 and Linux x86_64**
+**Only for version 3.7.0.446 and Linux x86_64**
 
 Corel® AfterShot™ Pro 3 is up to 4x faster than Adobe® Lightroom®*. It's the photo editor that reveals your true creative potential and frees you: from high costs, from endless subscriptions, from hours spent editing at your computer. Import, process and output faster, and get back behind the camera where you belong with AfterShot™ Pro 3.
 
