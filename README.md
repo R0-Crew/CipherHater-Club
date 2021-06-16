@@ -63,6 +63,7 @@ For anyone who is interested in hiring any of the services we provide you can [S
 32. <a href="#3dcoat">3DCoat 4.8.20/3DCprinting 1.1.09</a>
 33. <a href="#010editor">010 Editor 10.0.2</a>
 34. <a href="#mathematica">Wolfram Mathematica 12.1.1</a>
+35. <a href="#rar">RAR 6.02 for Linux x64</a>
 
 ----
 
@@ -790,6 +791,43 @@ After the generate key with keygen, the program is fully functional.
 ![wm_1.jpg](./images/wm/wm_1.jpg)
 ![wm_2.jpg](./images/wm/wm_2.jpg)
 ![wm_sp.jpg](./images/wm/wm_sp.jpg)
+
+
+----
+
+<a name="rar" />
+
+
+## RAR 6.02 for Linux x64
+
+**For all version and Linux x86_64**
+
+RAR is a powerful archive manager.
+
+[RAR home site](https://www.rarlab.com/)
+
+License key required: **YES**
+```
+After the patch, the program is fully functional.
+```
+
+```
+$ cat ~/.rarreg.key && rar
+RAR registration data
+Free World User
+Unlimited Free World License
+UID=00000000000000000000
+000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000
+
+RAR 6.02   Copyright (c) 1993-2021 Alexander Roshal   11 Jun 2021
+Registered to Free World User
+```
 
 
 ----
