@@ -322,7 +322,7 @@ After the patch, the program is fully functional.
 
 ![brics_big](./images/brics/21.2.04/brics_big.jpg)
 ![brics_launcher.jpg](./images/brics/21.2.04/brics_launcher.jpg)
-![brics_lic.jpg](./images/brics/21.2.04/brics_about.jpg)
+![brics_lic.jpg](./images/brics/21.2.05/brics_about.jpg)
 ![brics_small.jpg](./images/brics/21.2.04/brics_info.jpg)
 
 ----
