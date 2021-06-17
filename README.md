@@ -40,7 +40,7 @@ For anyone who is interested in hiring any of the services we provide you can [S
 9. <a href="#seolog">SEO Log File Analyser 3.3</a>
 10. <a href="#seospider">Screaming Frog SEO Spider 12.6</a>
 11. <a href="#turboprint">TurboPrint 2.49-1</a>
-12. <a href="#bcad">BricsCAD 21.2.04 All Languages</a>
+12. <a href="#bcad">BricsCAD 21.2.05 All Languages</a>
 13. <a href="#textpack">TexturePacker 5.4.0</a>
 14. <a href="#sprite">SpriteIlluminator 1.5.4</a>
 15. <a href="#physics">PhysicsEditor 1.8.4</a>
@@ -305,9 +305,9 @@ After the patch, the program is fully functional.
 
 <a name="bcad" />
 
-## BricsCAD 21.2.04 All Languages
+## BricsCAD 21.2.05 All Languages
 
-**For version 21.2.04 Linux x86_64 and all languages**
+**For version 21.2.05 Linux x86_64 and all languages**
 
 **Communicator version 21.0.02 Linux x86_64 and all languages**
 
