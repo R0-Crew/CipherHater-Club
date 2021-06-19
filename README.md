@@ -64,6 +64,7 @@ For anyone who is interested in hiring any of the services we provide you can [S
 33. <a href="#010editor">010 Editor 10.0.2</a>
 34. <a href="#mathematica">Wolfram Mathematica 12.1.1</a>
 35. <a href="#rar">RAR 6.02 for Linux x64</a>
+36. <a href="#winrar">WinRAR 6.02 for Windows x64 (Download free a hacked version)</a>
 
 ----
 
@@ -828,6 +829,31 @@ UID=00000000000000000000
 RAR 6.02   Copyright (c) 1993-2021 Alexander Roshal   11 Jun 2021
 Registered to Free World User
 ```
+
+
+----
+
+
+<a name="winrar" />
+
+
+## WinRAR 6.02 for Windows x64
+
+**For all version and Windows x86_64**
+
+WinRAR is a powerful archive manager.
+
+[RAR home site](https://www.rarlab.com/)
+
+License key required: **YES**
+```
+After the patch, the program is fully functional.
+```
+
+[Download free a hacked version](https://anonfiles.com/f28fTa17ub/winrar-6.02_en-ru_cipherhater.club_zip)
+
+
+![winrar.jpg](./images/winrar/winrar.jpg)
 
 
 ----
