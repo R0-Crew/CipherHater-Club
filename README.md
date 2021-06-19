@@ -858,19 +858,17 @@ After the patch, the program is fully functional.
 
 ----
 
+<center>
 
 ## Donate
 
 Bitcoin donations are being used to fund a fully monitored hacking project or help maintain one. We'll provide you with unmatched transparency and accountability of our work. Please join us!
 
-<div style="text-align:center" markdown="1">
 [![Donate using wallet addresses](./images/donate.svg)](https://en.cryptobadges.io/donate/3PY8prh5RLbuGtyBq4DCvP9xKVw7FZZkuR)
-</div>
+
 
 ----
 
-<center>
-    <p>
-        Copyright &copy; 2019-2020 CipherHater All rights reserved.
-    </p>
+<p>Copyright &copy; 2019-2020 CipherHater All rights reserved.</p>
+ 
 </center>
